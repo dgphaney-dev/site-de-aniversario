@@ -6,7 +6,7 @@
 
 ### 🎂 Sobre o projeto
 
-Um site interativo de aniversário, criado como presente surpresa — com galeria de fotos, mensagem/surpresa especial e vídeo comemorativo, tudo em uma experiência web simples e feita à mão.
+Um site interativo de aniversário, criado como presente surpresa, com galeria de fotos, mensagem/surpresa especial e vídeo comemorativo, tudo em uma experiência web simples e feita à mão.
 
 <br/>
 
